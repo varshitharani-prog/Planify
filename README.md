@@ -138,17 +138,6 @@ node server.js
 
 ---
 
-## 🔮 Future Enhancements
-
-* User Authentication
-* Cloud Database Integration
-* AI Chat History
-* Task Reminders
-* Team Collaboration
-* Dark Mode
-
----
-
 ## 👩‍💻 Author
 
 Bathula Varshitha Rani
