@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./src/assets/logop.jpeg" alt="Planify Logo" width="250"/>
+<img src="/logop.jpeg" alt="Planify Logo" width="250"/>
 
 # 📋 Planify – AI-Powered Task Management Application
 
