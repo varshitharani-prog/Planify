@@ -2,7 +2,7 @@
 
 <img src="./frontend/public/logop.jpeg" alt="Planify Logo" width="250"/>
 
-# 📋 Planify – AI-Powered Task Management Application
+# Planify – AI-Powered Task Management Application
 
 Organize tasks, track progress, and boost productivity with AI-powered assistance.
 
@@ -151,6 +151,5 @@ node server.js
 
 ## 👩‍💻 Author
 
-**Varshitha Rani Bathula**
+Bathula Varshitha Rani
 
-Built to simplify task management and improve productivity through intelligent assistance.
